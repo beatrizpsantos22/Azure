@@ -7,7 +7,7 @@ Modelos de Serviço:
 -PaaS (Plataforma como Serviço): Serviços gerenciados (Azure SQL, App Services).
 -SaaS (Software como Serviço): Aplicativos prontos (Office 365, Dynamics 365).
 
-Serviços Pincipias:
+Serviços Principais:
 1. COMPUTAÇÃO
    Azure Virtual Machines (VMs): Máquinas virtuais Windows/Linux.
    Azure Kubernetes Service (AKS): Orquestração de contêineres.
