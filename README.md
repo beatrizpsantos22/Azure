@@ -36,4 +36,18 @@ O PaaS é um modelo de serviço em nuvem que fornece uma plataforma completa par
 Sobre a Segurança: A empresa compartilha uma documentação com padrões e práticas recomendadas para ajudar os clientes a protegerem seus dados e recursos na nuvem. Manter a segurança em uma estrutura local exige atualizações manuais e monitoramento constante. No Azure, a segurança é contínua, com certificações que facilitam seguir as regras de segurança.
 
 
+How does Microsoft Azure work?: https://www.youtube.com/watch?v=KXkBZCe699A
+
+
+COMO CRIAR UMA MÁQUINA VIRTUAL?
+1. Entrar no Azure
+2. Digite máquinas virtuais na pesquisa.
+3. Em Serviços, selecione Máquinas virtuais.
+4. Na página Máquinas virtuais, clique em Criar e selecione Máquina virtual do Azure. A página Criar uma máquina virtual é aberta.
+5. Em Detalhes da instância, insira myVM no Nome da máquina virtual e escolha Windows Server 2022 Datacenter: Azure Edition - x64 Gen 2 na Imagem. Deixe os outros padrões.
+6. Em Conta de administrador, forneça um nome de usuário, como azureuser e uma senha. A senha deve ter no mínimo 12 caracteres e atender a requisitos de complexidade definidos.
+7. Em Regras de porta de entrada, escolha Permitir portas selecionadas e, em seguida, selecione RDP (3389) e HTTP (80) na lista suspensa.
+8. Deixe os padrões restantes e, em seguida, selecione o botão Examinar + criar na parte inferior da página.
+9. Após a execução da validação, selecione o botão Criar na parte inferior da página.
+10. Após a conclusão da implantação, selecione Ir para o recurso.
    
